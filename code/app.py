@@ -111,7 +111,7 @@ app.layout = html.Div(style={'backgroundColor': '#111111'}, children=[
             html.Div(style={'backgroundColor': '#111111','horizontalAlign':'center','textAlign':'center','width':'15%',
             'justifyContent':'center','paddingLeft':'35%'}, children=[
 
-                html.Label('Select second model',
+                html.Label('Select end season',
                 style = {'textAlign':'center','color':'white','white-space':'pre','fontSize':40, 'margin': '20px'}),
                 
                 html.Br(),
